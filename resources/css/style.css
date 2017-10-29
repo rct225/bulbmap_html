@@ -1,0 +1,13 @@
+h1 {
+  font-family: 'Damion', cursive;
+  text-align: center;
+  font-size: 8rem;
+  color: darkgreen;
+  margin-top: -80px;
+}
+
+img {
+  width: 35%;
+  display: block;
+  margin: 0 auto;
+}
