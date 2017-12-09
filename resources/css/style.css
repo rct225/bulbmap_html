@@ -1,13 +1,13 @@
-h1 {
+#logo {
   font-family: 'Damion', cursive;
   text-align: center;
   font-size: 8rem;
   color: darkgreen;
-  margin-top: -80px;
+  margin-top: -6rem;
 }
 
-img {
-  width: 35%;
+#logo_image {
+  width: 30rem;
   display: block;
   margin: 0 auto;
 }
