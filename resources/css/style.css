@@ -11,3 +11,12 @@
   display: block;
   margin: 0 auto;
 }
+
+.top-buffer {
+  margin-top:20px;
+}
+
+.col-centered{
+    margin: 0 auto;
+    float: none;
+}
